@@ -1,2 +1,2 @@
-# LinearAlgebraML
-Linear algebra applied to machine learning
+# Linear Algebra ML
+Linear algebra applied to machine learning.
